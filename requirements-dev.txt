@@ -8,7 +8,7 @@ setuptools
 tox
 
 cffi==1.1.2
-cryptography==0.9.3
+cryptography==3.2
 functools32==3.2.3.post2
 irc==12.4.3
 jaraco.apt==1.0
